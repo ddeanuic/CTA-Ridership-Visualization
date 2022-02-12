@@ -1,0 +1,13 @@
+name: TEST_Project1
+title: TEST_Project1
+username:
+account: dasunc2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5638248
+bundleId: 5571987
+url: https://dasunc2.shinyapps.io/TEST_Project1/
+when: 1644667391.71525
+lastSyncTime: 1644667391.71525
+asMultiple: FALSE
+asStatic: FALSE
